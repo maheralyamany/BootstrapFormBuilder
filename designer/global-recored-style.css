@@ -1,0 +1,131 @@
+
+  .ff-arial-black {
+    font-family: "Arial Black", Gadget, sans-serif !important
+  }
+  .ff-arial {
+    font-family: Arial, Helvetica, sans-serif !important
+  }
+  .ff-comic-sans-ms {
+    font-family: "Comic Sans MS", cursive, sans-serif !important
+  }
+  .ff-courier-new {
+    font-family: "Courier New", Courier, monospace !important
+  }
+  .ff-georgia {
+    font-family: Georgia, serif !important
+  }
+  .ff-impact {
+    font-family: Impact, Charcoal, sans-serif !important
+  }
+  .ff-lucida-console {
+    font-family: "Lucida Console", Monaco, monospace !important
+  }
+  .ff-droid-arabic {
+    font-family: droid-arabic !important;
+    font-style: normal ! important;
+    font-size: 11px ! important;
+  }
+  .ff-lucida-sans {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif !important
+  }
+  .ff-palatino-linotype {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif !important
+  }
+  .ff-tahoma {
+    font-family: Tahoma, Geneva, sans-serif !important
+  }
+  .ff-times-new-roman {
+    font-family: "Times New Roman", Times, serif !important
+  }
+  .ff-trebuchet-ms {
+    font-family: "Trebuchet MS", Helvetica, sans-serif !important
+  }
+  .ff-verdana {
+    font-family: Verdana, Geneva, sans-serif !important
+  }
+  .font-size-8 {
+    font-size: 8px ! important;
+    display: inline-block !important
+  }
+  .font-size-9 {
+    font-size: 9px ! important;
+    display: inline-block !important
+  }
+  .font-size-10 {
+    font-size: 10px ! important;
+    display: inline-block !important
+  }
+  .font-size-11 {
+    font-size: 11px ! important;
+    display: inline-block !important
+  }
+  .font-size-12 {
+    font-size: 12px ! important;
+    display: inline-block !important
+  }
+  .font-size-13 {
+    font-size: 13px ! important;
+    display: inline-block !important
+  }
+  .font-size-14 {
+    font-size: 14px ! important;
+    display: inline-block !important
+  }
+  .font-size-15 {
+    font-size: 15px ! important;
+    display: inline-block !important
+  }
+  .font-size-16 {
+    font-size: 16px ! important;
+    display: inline-block !important
+  }
+  .font-size-18 {
+    font-size: 18px ! important;
+    display: inline-block !important
+  }
+  .font-size-20 {
+    font-size: 20px ! important;
+    display: inline-block !important
+  }
+  .font-size-22 {
+    font-size: 22px ! important;
+    display: inline-block !important
+  }
+  .font-size-24 {
+    font-size: 24px ! important;
+    display: inline-block !important
+  }
+  .font-size-26 {
+    font-size: 26px ! important;
+    display: inline-block !important
+  }
+  .font-size-28 {
+    font-size: 28px ! important;
+    display: inline-block !important
+  }
+  .font-size-32 {
+    font-size: 32px ! important;
+    display: inline-block !important
+  }
+  .font-size-36 {
+    font-size: 36px ! important;
+    display: inline-block !important
+  }
+  .font-size-40 {
+    font-size: 40px ! important;
+    display: inline-block !important
+  }
+  .font-size-44 {
+    font-size: 44px ! important;
+    display: inline-block !important
+  }
+  .font-size-48 {
+    font-size: 48px ! important;
+    display: inline-block !important
+  }
+  td.active{
+    background-color: rgba(240, 230, 140, .5) !important;
+  }
+  td[inputCell="0"]{
+    background-color: #5faef3;
+  }

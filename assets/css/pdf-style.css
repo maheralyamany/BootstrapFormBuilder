@@ -1,0 +1,73 @@
+
+*{
+    font-family: aealarabiya;
+}
+
+table {
+    width: 100%;
+
+}
+
+
+table.pdf-table {
+    border: 1px solid #000;
+}
+
+table.pdf-table {
+    border: 1px solid;
+}
+
+table.pdf-table td {
+    border-top: 1px solid;
+    padding: 2mm;
+    
+}
+table.pdf-table th {
+    border-bottom: 1px solid;
+    padding: 3mm;
+    background-color: #cccccc;
+     
+}
+
+table .ref {
+   text-align: center;
+   width:15%;
+   
+}
+
+table .desig {
+ text-align: center;width:20%;
+}
+table .unit {
+ text-align: center;width:5%;
+}
+
+table .category {
+  text-align: center;width:40% ;word-wrap: break-all;grid-auto-flow:all;
+}
+
+
+table .supplier {
+   text-align: center;width:20%;
+}
+
+
+.table-article-infos {
+    border: none;
+}
+.table-article-infos td{
+    border: none;
+    padding: 3mm;
+}
+.table-article-infos .td-label{
+    width: 30%;
+}
+.table-article-infos .info{
+    width: 70%;
+}
+.table-article-infos{
+    width: 100%;
+}
+.table-article-infos td {
+    width: 50%;
+}
